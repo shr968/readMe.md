@@ -1,5 +1,7 @@
 # The Evolution and Impact of Artificial Intelligence: Shaping the Future of Technology
 
+![](AI.jpeg)
+
 Artificial Intelligence (AI) has emerged as one of the most transformative technologies of the 21st century. From its conceptual roots to its modern-day applications, AI has revolutionized numerous aspects of daily life and various industries. This article explores the evolution of AI, its core principles, and the profound impact it has on society and technology.
 
 ## Historical Background of Artificial Intelligence
